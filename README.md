@@ -31,8 +31,8 @@ This project is a Django application with a RESTful API that allows users to res
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/maxxyfred304/password-reset-project.git
-    cd password-reset-project
+    git clone https://github.com/maxxyfred304/EmailBasedPinReset.git
+    cd EmailBasedPinReset
     ```
 
 2. Create and activate a virtual environment:
